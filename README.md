@@ -26,6 +26,9 @@ after `npm run build` place the content of the `build` folder inside the `public
 
 The build is minified and the filenames include the hashes.<br />
 
+### `npm i`
+Install dependencies.
+
 ### Version
 `1.3.0`
 
