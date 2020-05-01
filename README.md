@@ -5,6 +5,11 @@ A simple password manager where archive your passwords.
 
 ![Info Tech Blog](/client/public/passman.gif)
 
+#### Stack
+- Backend: Nodejs
+- Frontend: Reactjs
+- Database: Mongodb(cloud)
+
 ### Usage
 Rename file env.env inside the root directory, to .env, replace MONGO_URI field, with your db connection string, replace JWT(jsonwebtoken) with your secret key(can be a simple string), set the token expire (default one day), set the cookie expire (default one day):
 
